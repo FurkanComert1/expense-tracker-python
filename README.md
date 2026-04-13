@@ -8,6 +8,7 @@ A console-based Personal Expense Tracker application built with Python. This pro
 * **Delete Expenses:** Easily remove incorrect or unwanted expense entries using their unique IDs.
 * **Budget Management:** Set budget limits for different categories and receive alerts if you exceed them.
 * **Data Visualization:** Automatically generates a bar chart of your expenses using Python's built-in `turtle` graphics module.
+![Expense Bar Chart](chart.png)
 * **Persistent Storage:** Safely stores all expense and budget data in JSON format (`expenses.json` and `budget.json`).
 
 ## Technologies Used
